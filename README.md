@@ -22,12 +22,6 @@ Currently studying in **IIT Roorkee** while building decentralized applications 
 - 🏅 Finalist - ZORA Coinathon
 - 🥇 Winner - World Assets Buildathon (TOMO BOUNTY)
 
-## 📂 Featured Projects
-
-**[Sigmoid](https://github.com/nitininhouse/sigmoid)** - Web3 content tokenization with fractional ownership  
-**[ZK Carbon](https://github.com/nitininhouse/zk-carbon)** - Privacy-preserving carbon credit marketplace  
-**[Zora Chan](https://github.com/nitininhouse/zora-chan)** - Decentralized token factory with Uniswap V4  
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitininhouse&show_icons=true&theme=dark)
